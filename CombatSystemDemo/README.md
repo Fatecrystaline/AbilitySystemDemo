@@ -37,5 +37,7 @@ effects, or entity types.
 
 ## Building & Running
 
-Requires a C++20-compatible compiler (e.g., g++).
+```bash
+g++ -std=c++20 src/main.cpp -o RPGItemShop
+./RPGItemShop
 
